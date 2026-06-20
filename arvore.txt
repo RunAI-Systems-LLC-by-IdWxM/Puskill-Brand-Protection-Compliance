@@ -1,5 +1,5 @@
 Listagem de caminhos de pasta
-O número de série do volume é 0000000F 4ED4:3784
+O número de série do volume é 00000050 4ED4:3784
 C:.
 ¦   .gitignore
 ¦   arvore.txt
@@ -13,7 +13,6 @@ C:.
 ¦   ¦       puskill-armazenamento-psk-19ssd6g-120gb-03.webp
 ¦   ¦       puskill-armazenamento-psk-19ssd6g-120gb-04.webp
 ¦   ¦       puskill-armazenamento-psk-19ssd6g-120gb-05.webp
-¦   ¦       puskill-armazenamento-psk-19ssd6g-120gb-06.webp
 ¦   ¦       
 ¦   +---psk-m2ssdp34-128g
 ¦           puskill-armazenamento-psk-m2ssdp34-128g-01.webp
@@ -31,24 +30,15 @@ C:.
 ¦   ¦   ¦   
 ¦   ¦   +---FOTOS PUSKILL
 ¦   ¦       ¦   M2 SEM CAIXA PUSKILL.png
-¦   ¦       ¦   SSD DIAMOND.rar
 ¦   ¦       ¦   
 ¦   ¦       +---03 - PSK-D3D11M1600B-4G
 ¦   ¦       ¦   +---MERCADO LIVRE
-¦   ¦       ¦   ¦       03 - PSK-D3D11M1600B-4G_01_ML.png
-¦   ¦       ¦   ¦       03 - PSK-D3D11M1600B-4G_02_ML.png
-¦   ¦       ¦   ¦       03 - PSK-D3D11M1600B-4G_03_ML.png
-¦   ¦       ¦   ¦       03 - PSK-D3D11M1600B-4G_04_ML.png
-¦   ¦       ¦   ¦       03 - PSK-D3D11M1600B-4G_05_ML.png
-¦   ¦       ¦   ¦       03 - PSK-D3D11M1600B-4G_06_ML.png
-¦   ¦       ¦   ¦       
-¦   ¦       ¦   +---ORIGINAIS
-¦   ¦       ¦           03 - PSK-D3D11M1600B-4G_01.png
-¦   ¦       ¦           03 - PSK-D3D11M1600B-4G_02.png
-¦   ¦       ¦           03 - PSK-D3D11M1600B-4G_03.png
-¦   ¦       ¦           03 - PSK-D3D11M1600B-4G_04.png
-¦   ¦       ¦           03 - PSK-D3D11M1600B-4G_05.png
-¦   ¦       ¦           03 - PSK-D3D11M1600B-4G_06.png
+¦   ¦       ¦           03 - PSK-D3D11M1600B-4G_01_ML.png
+¦   ¦       ¦           03 - PSK-D3D11M1600B-4G_02_ML.png
+¦   ¦       ¦           03 - PSK-D3D11M1600B-4G_03_ML.png
+¦   ¦       ¦           03 - PSK-D3D11M1600B-4G_04_ML.png
+¦   ¦       ¦           03 - PSK-D3D11M1600B-4G_05_ML.png
+¦   ¦       ¦           03 - PSK-D3D11M1600B-4G_06_ML.png
 ¦   ¦       ¦           
 ¦   ¦       +---47 - PSK-19SSD6G-120G
 ¦   ¦       ¦   +---BLACK
@@ -58,7 +48,6 @@ C:.
 ¦   ¦       ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦       Prancheta 4.png
 ¦   ¦       ¦   ¦       Prancheta 5.png
-¦   ¦       ¦   ¦       Prancheta 6.png
 ¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---GOLD
 ¦   ¦       ¦   ¦       GOLD_BG_Branco.png
@@ -67,7 +56,6 @@ C:.
 ¦   ¦       ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦       Prancheta 4.png
 ¦   ¦       ¦   ¦       Prancheta 5.png
-¦   ¦       ¦   ¦       Prancheta 6.png
 ¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---SILVER
 ¦   ¦       ¦           Prancheta 1.png
@@ -75,7 +63,6 @@ C:.
 ¦   ¦       ¦           Prancheta 3.png
 ¦   ¦       ¦           Prancheta 4.png
 ¦   ¦       ¦           Prancheta 5.png
-¦   ¦       ¦           Prancheta 6.png
 ¦   ¦       ¦           SILVER_BG_Branco.png
 ¦   ¦       ¦           
 ¦   ¦       +---48 - PSK-19SSD6G-128G
@@ -86,7 +73,6 @@ C:.
 ¦   ¦       ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦       Prancheta 4.png
 ¦   ¦       ¦   ¦       Prancheta 5.png
-¦   ¦       ¦   ¦       Prancheta 6.png
 ¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---GOLD
 ¦   ¦       ¦   ¦       GOLD_BG_Branco.png
@@ -95,7 +81,6 @@ C:.
 ¦   ¦       ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦       Prancheta 4.png
 ¦   ¦       ¦   ¦       Prancheta 5.png
-¦   ¦       ¦   ¦       Prancheta 6.png
 ¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---SILVER
 ¦   ¦       ¦           Prancheta 1.png
@@ -103,7 +88,6 @@ C:.
 ¦   ¦       ¦           Prancheta 3.png
 ¦   ¦       ¦           Prancheta 4.png
 ¦   ¦       ¦           Prancheta 5.png
-¦   ¦       ¦           Prancheta 6.png
 ¦   ¦       ¦           SILVER_BG_Branco.png
 ¦   ¦       ¦           
 ¦   ¦       +---49 - PSK-19SSD6G-240G
@@ -114,7 +98,6 @@ C:.
 ¦   ¦       ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦       Prancheta 4.png
 ¦   ¦       ¦   ¦       Prancheta 5.png
-¦   ¦       ¦   ¦       Prancheta 6.png
 ¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---GOLD
 ¦   ¦       ¦   ¦       GOLD_BG_Branco.png
@@ -123,7 +106,6 @@ C:.
 ¦   ¦       ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦       Prancheta 4.png
 ¦   ¦       ¦   ¦       Prancheta 5.png
-¦   ¦       ¦   ¦       Prancheta 6.png
 ¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---SILVER
 ¦   ¦       ¦           Prancheta 1.png
@@ -131,7 +113,6 @@ C:.
 ¦   ¦       ¦           Prancheta 3.png
 ¦   ¦       ¦           Prancheta 4.png
 ¦   ¦       ¦           Prancheta 5.png
-¦   ¦       ¦           Prancheta 6.png
 ¦   ¦       ¦           SILVER_BG_Branco.png
 ¦   ¦       ¦           
 ¦   ¦       +---50 - PSK-19SSD6G-256G
@@ -142,7 +123,6 @@ C:.
 ¦   ¦       ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦       Prancheta 4.png
 ¦   ¦       ¦   ¦       Prancheta 5.png
-¦   ¦       ¦   ¦       Prancheta 6.png
 ¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---GOLD
 ¦   ¦       ¦   ¦       GOLD_BG_Branco.png
@@ -151,7 +131,6 @@ C:.
 ¦   ¦       ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦       Prancheta 4.png
 ¦   ¦       ¦   ¦       Prancheta 5.png
-¦   ¦       ¦   ¦       Prancheta 6.png
 ¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---SILVER
 ¦   ¦       ¦           Prancheta 1.png
@@ -159,7 +138,6 @@ C:.
 ¦   ¦       ¦           Prancheta 3.png
 ¦   ¦       ¦           Prancheta 4.png
 ¦   ¦       ¦           Prancheta 5.png
-¦   ¦       ¦           Prancheta 6.png
 ¦   ¦       ¦           SILVER_BG_Branco.png
 ¦   ¦       ¦           
 ¦   ¦       +---51 - PSK-19SSD6G-480G
@@ -170,7 +148,6 @@ C:.
 ¦   ¦       ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦       Prancheta 4.png
 ¦   ¦       ¦   ¦       Prancheta 5.png
-¦   ¦       ¦   ¦       Prancheta 6.png
 ¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---GOLD
 ¦   ¦       ¦   ¦       GOLD_BG_Branco.png
@@ -179,7 +156,6 @@ C:.
 ¦   ¦       ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦       Prancheta 4.png
 ¦   ¦       ¦   ¦       Prancheta 5.png
-¦   ¦       ¦   ¦       Prancheta 6.png
 ¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---SILVER
 ¦   ¦       ¦           Prancheta 1.png
@@ -187,7 +163,6 @@ C:.
 ¦   ¦       ¦           Prancheta 3.png
 ¦   ¦       ¦           Prancheta 4.png
 ¦   ¦       ¦           Prancheta 5.png
-¦   ¦       ¦           Prancheta 6.png
 ¦   ¦       ¦           SILVER_BG_Branco.png
 ¦   ¦       ¦           
 ¦   ¦       +---52 - PSK-19SSD6G-512G
@@ -198,7 +173,6 @@ C:.
 ¦   ¦       ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦       Prancheta 4.png
 ¦   ¦       ¦   ¦       Prancheta 5.png
-¦   ¦       ¦   ¦       Prancheta 6.png
 ¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---GOLD
 ¦   ¦       ¦   ¦       GOLD_BG_Branco.png
@@ -207,7 +181,6 @@ C:.
 ¦   ¦       ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦       Prancheta 4.png
 ¦   ¦       ¦   ¦       Prancheta 5.png
-¦   ¦       ¦   ¦       Prancheta 6.png
 ¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---SILVER
 ¦   ¦       ¦           Prancheta 1.png
@@ -215,7 +188,6 @@ C:.
 ¦   ¦       ¦           Prancheta 3.png
 ¦   ¦       ¦           Prancheta 4.png
 ¦   ¦       ¦           Prancheta 5.png
-¦   ¦       ¦           Prancheta 6.png
 ¦   ¦       ¦           SILVER_BG_Branco.png
 ¦   ¦       ¦           
 ¦   ¦       +---53 - PSK-19SSD6G-1TB
@@ -226,7 +198,6 @@ C:.
 ¦   ¦       ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦       Prancheta 4.png
 ¦   ¦       ¦   ¦       Prancheta 5.png
-¦   ¦       ¦   ¦       Prancheta 6.png
 ¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---GOLD
 ¦   ¦       ¦   ¦       GOLD_BG_Branco.png
@@ -235,7 +206,6 @@ C:.
 ¦   ¦       ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦       Prancheta 4.png
 ¦   ¦       ¦   ¦       Prancheta 5.png
-¦   ¦       ¦   ¦       Prancheta 6.png
 ¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---SILVER
 ¦   ¦       ¦           Prancheta 1.png
@@ -243,7 +213,6 @@ C:.
 ¦   ¦       ¦           Prancheta 3.png
 ¦   ¦       ¦           Prancheta 4.png
 ¦   ¦       ¦           Prancheta 5.png
-¦   ¦       ¦           Prancheta 6.png
 ¦   ¦       ¦           SILVER_BG_Branco.png
 ¦   ¦       ¦           
 ¦   ¦       +---54 - PSK-19SSD6G-2TB
@@ -254,7 +223,6 @@ C:.
 ¦   ¦       ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦       Prancheta 4.png
 ¦   ¦       ¦   ¦       Prancheta 5.png
-¦   ¦       ¦   ¦       Prancheta 6.png
 ¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---GOLD
 ¦   ¦       ¦   ¦       GOLD_BG_Branco.png
@@ -263,7 +231,6 @@ C:.
 ¦   ¦       ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦       Prancheta 4.png
 ¦   ¦       ¦   ¦       Prancheta 5.png
-¦   ¦       ¦   ¦       Prancheta 6.png
 ¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---SILVER
 ¦   ¦       ¦           Prancheta 1.png
@@ -271,7 +238,6 @@ C:.
 ¦   ¦       ¦           Prancheta 3.png
 ¦   ¦       ¦           Prancheta 4.png
 ¦   ¦       ¦           Prancheta 5.png
-¦   ¦       ¦           Prancheta 6.png
 ¦   ¦       ¦           SILVER_BG_Branco.png
 ¦   ¦       ¦           
 ¦   ¦       +---63 - PSK-M2SSDP34-128G
@@ -329,14 +295,6 @@ C:.
 ¦   ¦       ¦   ¦       64 - PSK-M2SSDP34-256G_05_ML.png
 ¦   ¦       ¦   ¦       64 - PSK-M2SSDP34-256G_06_ML.png
 ¦   ¦       ¦   ¦       
-¦   ¦       ¦   +---ORIGINAIS
-¦   ¦       ¦   ¦       64 - PSK-M2SSDP34-256G_01.png
-¦   ¦       ¦   ¦       64 - PSK-M2SSDP34-256G_02.png
-¦   ¦       ¦   ¦       64 - PSK-M2SSDP34-256G_03.png
-¦   ¦       ¦   ¦       64 - PSK-M2SSDP34-256G_04.png
-¦   ¦       ¦   ¦       64 - PSK-M2SSDP34-256G_05.png
-¦   ¦       ¦   ¦       64 - PSK-M2SSDP34-256G_06.png
-¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---SILVER
 ¦   ¦       ¦           PSK-M2SSDP34-256G - SILVER_01.png
 ¦   ¦       ¦           PSK-M2SSDP34-256G - SILVER_02.png
@@ -372,14 +330,6 @@ C:.
 ¦   ¦       ¦   ¦       65 - PSK-M2SSDP34-512G_04_ML.png
 ¦   ¦       ¦   ¦       65 - PSK-M2SSDP34-512G_05_ML.png
 ¦   ¦       ¦   ¦       65 - PSK-M2SSDP34-512G_06_ML.png
-¦   ¦       ¦   ¦       
-¦   ¦       ¦   +---ORIGINAIS
-¦   ¦       ¦   ¦       65 - PSK-M2SSDP34-512G_01.png
-¦   ¦       ¦   ¦       65 - PSK-M2SSDP34-512G_02.png
-¦   ¦       ¦   ¦       65 - PSK-M2SSDP34-512G_03.png
-¦   ¦       ¦   ¦       65 - PSK-M2SSDP34-512G_04.png
-¦   ¦       ¦   ¦       65 - PSK-M2SSDP34-512G_05.png
-¦   ¦       ¦   ¦       65 - PSK-M2SSDP34-512G_06.png
 ¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---SILVER
 ¦   ¦       ¦           PSK-M2SSDP34-512G - SILVER_01.png
@@ -417,14 +367,6 @@ C:.
 ¦   ¦       ¦   ¦       66 - PSK-M2SSDP34-1024G_05_ML.png
 ¦   ¦       ¦   ¦       66 - PSK-M2SSDP34-1024G_06_ML.png
 ¦   ¦       ¦   ¦       
-¦   ¦       ¦   +---ORIGINAIS
-¦   ¦       ¦   ¦       66 - PSK-M2SSDP34-1024G_01.png
-¦   ¦       ¦   ¦       66 - PSK-M2SSDP34-1024G_02.png
-¦   ¦       ¦   ¦       66 - PSK-M2SSDP34-1024G_03.png
-¦   ¦       ¦   ¦       66 - PSK-M2SSDP34-1024G_04.png
-¦   ¦       ¦   ¦       66 - PSK-M2SSDP34-1024G_05.png
-¦   ¦       ¦   ¦       66 - PSK-M2SSDP34-1024G_06.png
-¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---SILVER
 ¦   ¦       ¦           PSK-M2SSDP34-1024G - SILVER_01.png
 ¦   ¦       ¦           PSK-M2SSDP34-1024G - SILVER_02.png
@@ -460,14 +402,6 @@ C:.
 ¦   ¦       ¦   ¦       67 - PSK-M2SSDP34-2048G_04_ML.png
 ¦   ¦       ¦   ¦       67 - PSK-M2SSDP34-2048G_05_ML.png
 ¦   ¦       ¦   ¦       67 - PSK-M2SSDP34-2048G_06_ML.png
-¦   ¦       ¦   ¦       
-¦   ¦       ¦   +---ORIGINAIS
-¦   ¦       ¦   ¦       67 - PSK-M2SSDP34-2048G_01.png
-¦   ¦       ¦   ¦       67 - PSK-M2SSDP34-2048G_02.png
-¦   ¦       ¦   ¦       67 - PSK-M2SSDP34-2048G_03.png
-¦   ¦       ¦   ¦       67 - PSK-M2SSDP34-2048G_04.png
-¦   ¦       ¦   ¦       67 - PSK-M2SSDP34-2048G_05.png
-¦   ¦       ¦   ¦       67 - PSK-M2SSDP34-2048G_06.png
 ¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---SILVER
 ¦   ¦       ¦           PSK-M2SSDP34-2048G - SILVER_01.png
@@ -505,14 +439,6 @@ C:.
 ¦   ¦       ¦   ¦       68 - PSK-M2SSDP44-512G_05_ML.png
 ¦   ¦       ¦   ¦       68 - PSK-M2SSDP44-512G_06_ML.png
 ¦   ¦       ¦   ¦       
-¦   ¦       ¦   +---ORIGINAIS
-¦   ¦       ¦   ¦       68 - PSK-M2SSDP44-512G_01.png
-¦   ¦       ¦   ¦       68 - PSK-M2SSDP44-512G_02.png
-¦   ¦       ¦   ¦       68 - PSK-M2SSDP44-512G_03.png
-¦   ¦       ¦   ¦       68 - PSK-M2SSDP44-512G_04.png
-¦   ¦       ¦   ¦       68 - PSK-M2SSDP44-512G_05.png
-¦   ¦       ¦   ¦       68 - PSK-M2SSDP44-512G_06.png
-¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---SILVER
 ¦   ¦       ¦           PSK-M2SSDP34-512G_SILVER_01_4.png
 ¦   ¦       ¦           PSK-M2SSDP44-512G - SILVER_01.png
@@ -548,14 +474,6 @@ C:.
 ¦   ¦       ¦   ¦       69 - PSK-M2SSDP44-1024G_04_ML.png
 ¦   ¦       ¦   ¦       69 - PSK-M2SSDP44-1024G_05_ML.png
 ¦   ¦       ¦   ¦       69 - PSK-M2SSDP44-1024G_06_ML.png
-¦   ¦       ¦   ¦       
-¦   ¦       ¦   +---ORIGINAIS
-¦   ¦       ¦   ¦       69 - PSK-M2SSDP44-1024G_01.png
-¦   ¦       ¦   ¦       69 - PSK-M2SSDP44-1024G_02.png
-¦   ¦       ¦   ¦       69 - PSK-M2SSDP44-1024G_03.png
-¦   ¦       ¦   ¦       69 - PSK-M2SSDP44-1024G_04.png
-¦   ¦       ¦   ¦       69 - PSK-M2SSDP44-1024G_05.png
-¦   ¦       ¦   ¦       69 - PSK-M2SSDP44-1024G_06.png
 ¦   ¦       ¦   ¦       
 ¦   ¦       ¦   +---SILVER
 ¦   ¦       ¦           PSK-M2SSDP34-1TB_SILVER_01_4.png
@@ -617,56 +535,48 @@ C:.
 ¦   ¦       ¦   ¦   ¦       Prancheta 2.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 4.png
-¦   ¦       ¦   ¦   ¦       Prancheta 5.png
 ¦   ¦       ¦   ¦   ¦       
 ¦   ¦       ¦   ¦   +---128
 ¦   ¦       ¦   ¦   ¦       Prancheta 1.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 2.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 4.png
-¦   ¦       ¦   ¦   ¦       Prancheta 5.png
 ¦   ¦       ¦   ¦   ¦       
 ¦   ¦       ¦   ¦   +---1TB
 ¦   ¦       ¦   ¦   ¦       Prancheta 1.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 2.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 4.png
-¦   ¦       ¦   ¦   ¦       Prancheta 5.png
 ¦   ¦       ¦   ¦   ¦       
 ¦   ¦       ¦   ¦   +---240
 ¦   ¦       ¦   ¦   ¦       Prancheta 1.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 2.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 4.png
-¦   ¦       ¦   ¦   ¦       Prancheta 5.png
 ¦   ¦       ¦   ¦   ¦       
 ¦   ¦       ¦   ¦   +---256
 ¦   ¦       ¦   ¦   ¦       Prancheta 1.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 2.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 4.png
-¦   ¦       ¦   ¦   ¦       Prancheta 5.png
 ¦   ¦       ¦   ¦   ¦       
 ¦   ¦       ¦   ¦   +---2TB
 ¦   ¦       ¦   ¦   ¦       Prancheta 1.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 2.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 4.png
-¦   ¦       ¦   ¦   ¦       Prancheta 5.png
 ¦   ¦       ¦   ¦   ¦       
 ¦   ¦       ¦   ¦   +---480
 ¦   ¦       ¦   ¦   ¦       Prancheta 1.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 2.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 4.png
-¦   ¦       ¦   ¦   ¦       Prancheta 5.png
 ¦   ¦       ¦   ¦   ¦       
 ¦   ¦       ¦   ¦   +---512
 ¦   ¦       ¦   ¦           Prancheta 1.png
 ¦   ¦       ¦   ¦           Prancheta 2.png
 ¦   ¦       ¦   ¦           Prancheta 3.png
 ¦   ¦       ¦   ¦           Prancheta 4.png
-¦   ¦       ¦   ¦           Prancheta 5.png
 ¦   ¦       ¦   ¦           
 ¦   ¦       ¦   +---Gold
 ¦   ¦       ¦   ¦   +---120
@@ -674,56 +584,48 @@ C:.
 ¦   ¦       ¦   ¦   ¦       Prancheta 2.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 4.png
-¦   ¦       ¦   ¦   ¦       Prancheta 5.png
 ¦   ¦       ¦   ¦   ¦       
 ¦   ¦       ¦   ¦   +---128
 ¦   ¦       ¦   ¦   ¦       Prancheta 1.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 2.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 4.png
-¦   ¦       ¦   ¦   ¦       Prancheta 5.png
 ¦   ¦       ¦   ¦   ¦       
 ¦   ¦       ¦   ¦   +---1TB
 ¦   ¦       ¦   ¦   ¦       Prancheta 1.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 2.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 4.png
-¦   ¦       ¦   ¦   ¦       Prancheta 5.png
 ¦   ¦       ¦   ¦   ¦       
 ¦   ¦       ¦   ¦   +---240
 ¦   ¦       ¦   ¦   ¦       Prancheta 1.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 2.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 4.png
-¦   ¦       ¦   ¦   ¦       Prancheta 5.png
 ¦   ¦       ¦   ¦   ¦       
 ¦   ¦       ¦   ¦   +---256
 ¦   ¦       ¦   ¦   ¦       Prancheta 1.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 2.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 4.png
-¦   ¦       ¦   ¦   ¦       Prancheta 5.png
 ¦   ¦       ¦   ¦   ¦       
 ¦   ¦       ¦   ¦   +---2TB
 ¦   ¦       ¦   ¦   ¦       Prancheta 1.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 2.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 4.png
-¦   ¦       ¦   ¦   ¦       Prancheta 5.png
 ¦   ¦       ¦   ¦   ¦       
 ¦   ¦       ¦   ¦   +---480
 ¦   ¦       ¦   ¦   ¦       Prancheta 1.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 2.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 3.png
 ¦   ¦       ¦   ¦   ¦       Prancheta 4.png
-¦   ¦       ¦   ¦   ¦       Prancheta 5.png
 ¦   ¦       ¦   ¦   ¦       
 ¦   ¦       ¦   ¦   +---512
 ¦   ¦       ¦   ¦           Prancheta 1.png
 ¦   ¦       ¦   ¦           Prancheta 2.png
 ¦   ¦       ¦   ¦           Prancheta 3.png
 ¦   ¦       ¦   ¦           Prancheta 4.png
-¦   ¦       ¦   ¦           Prancheta 5.png
 ¦   ¦       ¦   ¦           
 ¦   ¦       ¦   +---Silver
 ¦   ¦       ¦       +---128
@@ -731,49 +633,42 @@ C:.
 ¦   ¦       ¦       ¦       Prancheta 2.png
 ¦   ¦       ¦       ¦       Prancheta 3.png
 ¦   ¦       ¦       ¦       Prancheta 4.png
-¦   ¦       ¦       ¦       Prancheta 5.png
 ¦   ¦       ¦       ¦       
 ¦   ¦       ¦       +---1TB
 ¦   ¦       ¦       ¦       Prancheta 1.png
 ¦   ¦       ¦       ¦       Prancheta 2.png
 ¦   ¦       ¦       ¦       Prancheta 3.png
 ¦   ¦       ¦       ¦       Prancheta 4.png
-¦   ¦       ¦       ¦       Prancheta 5.png
 ¦   ¦       ¦       ¦       
 ¦   ¦       ¦       +---240
 ¦   ¦       ¦       ¦       Prancheta 1.png
 ¦   ¦       ¦       ¦       Prancheta 2.png
 ¦   ¦       ¦       ¦       Prancheta 3.png
 ¦   ¦       ¦       ¦       Prancheta 4.png
-¦   ¦       ¦       ¦       Prancheta 5.png
 ¦   ¦       ¦       ¦       
 ¦   ¦       ¦       +---256
 ¦   ¦       ¦       ¦       Prancheta 1.png
 ¦   ¦       ¦       ¦       Prancheta 2.png
 ¦   ¦       ¦       ¦       Prancheta 3.png
 ¦   ¦       ¦       ¦       Prancheta 4.png
-¦   ¦       ¦       ¦       Prancheta 5.png
 ¦   ¦       ¦       ¦       
 ¦   ¦       ¦       +---2TB
 ¦   ¦       ¦       ¦       Prancheta 1.png
 ¦   ¦       ¦       ¦       Prancheta 2.png
 ¦   ¦       ¦       ¦       Prancheta 3.png
 ¦   ¦       ¦       ¦       Prancheta 4.png
-¦   ¦       ¦       ¦       Prancheta 5.png
 ¦   ¦       ¦       ¦       
 ¦   ¦       ¦       +---480
 ¦   ¦       ¦       ¦       Prancheta 1.png
 ¦   ¦       ¦       ¦       Prancheta 2.png
 ¦   ¦       ¦       ¦       Prancheta 3.png
 ¦   ¦       ¦       ¦       Prancheta 4.png
-¦   ¦       ¦       ¦       Prancheta 5.png
 ¦   ¦       ¦       ¦       
 ¦   ¦       ¦       +---512
 ¦   ¦       ¦               Prancheta 1.png
 ¦   ¦       ¦               Prancheta 2.png
 ¦   ¦       ¦               Prancheta 3.png
 ¦   ¦       ¦               Prancheta 4.png
-¦   ¦       ¦               Prancheta 5.png
 ¦   ¦       ¦               
 ¦   ¦       +---SSD SATA - Fundo Branco
 ¦   ¦           +---SSD SATA - Fundo Branco
@@ -785,10 +680,6 @@ C:.
 ¦   ¦       Certificado-Avctoris-Declaracao_Autoria_PUSKILL.pdf
 ¦   ¦       Declaracao-Autoria-Puskill-2cb155cee90de845b664e1fcb5a860ad68e618bb4bb3659173a9920952cdef38.pdf
 ¦   ¦       
-¦   +---puskill-diamond
-¦   ¦       certificado-avctoris-puskill-diamond-dd465160fc6c6e2a2ad027ff8e06b6da3325acaaf480d90139691416f36c83ba.pdf
-¦   ¦       Puskill-Diamond-Imagens.pdf
-¦   ¦       
 ¦   +---puskill-fuse
 ¦   ¦       certificado-puskill-fuse-f5e048eb21c46f00a46c9d3c9f1d5b6a84fc7fa3d51ad638d2380eddd9907b3d.pdf
 ¦   ¦       Puskill-Fuse-Imagens.pdf
@@ -799,66 +690,32 @@ C:.
 +---ram
 ¦   +---ddr3
 ¦   ¦   +---04 – psk-d3d9m1333b-8g
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-1333mhz-desktop-04 – psk-d3d9m1333b-8g-01.webp
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-1333mhz-desktop-04 – psk-d3d9m1333b-8g-02.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-8gb-1333mhz-desktop-04 – psk-d3d9m1333b-8g-03.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-8gb-1333mhz-desktop-04 – psk-d3d9m1333b-8g-04.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-8gb-1333mhz-desktop-04 – psk-d3d9m1333b-8g-05.webp
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-1333mhz-desktop-04 – psk-d3d9m1333b-8g-06.webp
 ¦   ¦   ¦       
 ¦   ¦   +---psk-d3d11m1600b-4g
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-11600mhz-desktop-psk-d3d11m1600b-4g-01.webp
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-11600mhz-desktop-psk-d3d11m1600b-4g-02.webp
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-11600mhz-desktop-psk-d3d11m1600b-4g-03.webp
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-11600mhz-desktop-psk-d3d11m1600b-4g-04.webp
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-11600mhz-desktop-psk-d3d11m1600b-4g-05.webp
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-11600mhz-desktop-psk-d3d11m1600b-4g-06.webp
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-1600mhz-desktop-psk-d3d11m1600b-4g-1.webp
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-1600mhz-desktop-psk-d3d11m1600b-4g-2.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-4gb-1600mhz-desktop-psk-d3d11m1600b-4g-3.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-4gb-1600mhz-desktop-psk-d3d11m1600b-4g-4.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-4gb-1600mhz-desktop-psk-d3d11m1600b-4g-5.webp
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-1600mhz-desktop-psk-d3d11m1600b-4g-6.webp
 ¦   ¦   ¦       
 ¦   ¦   +---psk-d3d11m1600b-8g
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-11600mhz-desktop-psk-d3d11m1600b-8g-01.webp
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-11600mhz-desktop-psk-d3d11m1600b-8g-02.webp
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-11600mhz-desktop-psk-d3d11m1600b-8g-03.webp
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-11600mhz-desktop-psk-d3d11m1600b-8g-04.webp
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-11600mhz-desktop-psk-d3d11m1600b-8g-05.webp
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-11600mhz-desktop-psk-d3d11m1600b-8g-06.webp
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-11600mhz-desktop-psk-d3d11m1600b-8g-07.webp
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-1600mhz-desktop-psk-d3d11m1600b-8g-1.webp
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-1600mhz-desktop-psk-d3d11m1600b-8g-2.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-8gb-1600mhz-desktop-psk-d3d11m1600b-8g-3.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-8gb-1600mhz-desktop-psk-d3d11m1600b-8g-4.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-8gb-1600mhz-desktop-psk-d3d11m1600b-8g-5.webp
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-1600mhz-desktop-psk-d3d11m1600b-8g-6.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-8gb-1600mhz-desktop-psk-d3d11m1600b-8g-7.webp
 ¦   ¦   ¦       
 ¦   ¦   +---psk-d3d11m1600bl-4g
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-11600mhz-desktop-psk-d3d11m1600bl-4g-01.webp
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-11600mhz-desktop-psk-d3d11m1600bl-4g-02.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-4gb-11600mhz-desktop-psk-d3d11m1600bl-4g-03.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-4gb-11600mhz-desktop-psk-d3d11m1600bl-4g-04.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-4gb-11600mhz-desktop-psk-d3d11m1600bl-4g-05.webp
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-11600mhz-desktop-psk-d3d11m1600bl-4g-06.webp
 ¦   ¦   ¦       
 ¦   ¦   +---psk-d3d11m1600bl-8g
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-11600mhz-desktop-psk-d3d11m1600bl-8g-01.webp
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-11600mhz-desktop-psk-d3d11m1600bl-8g-02.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-8gb-11600mhz-desktop-psk-d3d11m1600bl-8g-03.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-8gb-11600mhz-desktop-psk-d3d11m1600bl-8g-04.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-8gb-11600mhz-desktop-psk-d3d11m1600bl-8g-05.webp
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-11600mhz-desktop-psk-d3d11m1600bl-8g-06.webp
 ¦   ¦   ¦       
 ¦   ¦   +---psk-d3d11m1600brv-8g
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-11600mhz-desktop-psk-d3d11m1600brv-8g-01.webp
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-11600mhz-desktop-psk-d3d11m1600brv-8g-02.webp
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-11600mhz-desktop-psk-d3d11m1600brv-8g-03.webp
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-11600mhz-desktop-psk-d3d11m1600brv-8g-04.webp
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-11600mhz-desktop-psk-d3d11m1600brv-8g-05.webp
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-11600mhz-desktop-psk-d3d11m1600brv-8g-06.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-8gb-1600mhz-desktop-psk-d3d11m1600brv-8g-1.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-8gb-1600mhz-desktop-psk-d3d11m1600brv-8g-2.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-8gb-1600mhz-desktop-psk-d3d11m1600brv-8g-3.webp
@@ -873,36 +730,21 @@ C:.
 ¦   ¦   ¦       puskill-veneno-ddr3-4gb-1333mhz-desktop-psk-d3d9m1333b-4g-04.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-4gb-1333mhz-desktop-psk-d3d9m1333b-4g-05.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-4gb-1333mhz-desktop-psk-d3d9m1333b-4g-06.webp
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-1333mhz-desktop-psk-d3d9m1333b-4g-1.webp
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-1333mhz-desktop-psk-d3d9m1333b-4g-2.webp
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-1333mhz-desktop-psk-d3d9m1333b-4g-3.webp
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-1333mhz-desktop-psk-d3d9m1333b-4g-4.webp
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-1333mhz-desktop-psk-d3d9m1333b-4g-5.webp
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-1333mhz-desktop-psk-d3d9m1333b-4g-6.webp
 ¦   ¦   ¦       
 ¦   ¦   +---psk-d3d9m1333b-8g
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-1333mhz-desktop-psk-d3d9m1333b-8g-1.webp
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-1333mhz-desktop-psk-d3d9m1333b-8g-2.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-8gb-1333mhz-desktop-psk-d3d9m1333b-8g-3.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-8gb-1333mhz-desktop-psk-d3d9m1333b-8g-4.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-8gb-1333mhz-desktop-psk-d3d9m1333b-8g-5.webp
-¦   ¦   ¦       puskill-veneno-ddr3-8gb-1333mhz-desktop-psk-d3d9m1333b-8g-6.webp
 ¦   ¦   ¦       
 ¦   ¦   +---psk-d3d9m1333bl-4g
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-1333mhz-desktop-psk-d3d9m1333bl-4g-01.webp
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-1333mhz-desktop-psk-d3d9m1333bl-4g-02.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-4gb-1333mhz-desktop-psk-d3d9m1333bl-4g-03.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-4gb-1333mhz-desktop-psk-d3d9m1333bl-4g-04.webp
 ¦   ¦   ¦       puskill-veneno-ddr3-4gb-1333mhz-desktop-psk-d3d9m1333bl-4g-05.webp
-¦   ¦   ¦       puskill-veneno-ddr3-4gb-1333mhz-desktop-psk-d3d9m1333bl-4g-06.webp
 ¦   ¦   ¦       
 ¦   ¦   +---psk-d3d9m1333bl-8g
-¦   ¦           puskill-veneno-ddr3-8gb-1333mhz-desktop-psk-d3d9m1333bl-8g-01.webp
-¦   ¦           puskill-veneno-ddr3-8gb-1333mhz-desktop-psk-d3d9m1333bl-8g-02.webp
 ¦   ¦           puskill-veneno-ddr3-8gb-1333mhz-desktop-psk-d3d9m1333bl-8g-03.webp
 ¦   ¦           puskill-veneno-ddr3-8gb-1333mhz-desktop-psk-d3d9m1333bl-8g-04.webp
 ¦   ¦           puskill-veneno-ddr3-8gb-1333mhz-desktop-psk-d3d9m1333bl-8g-05.webp
-¦   ¦           puskill-veneno-ddr3-8gb-1333mhz-desktop-psk-d3d9m1333bl-8g-06.webp
 ¦   ¦           
 ¦   +---ddr4
 ¦   ¦   +---psk-d4d17m2400b-16g
@@ -912,12 +754,6 @@ C:.
 ¦   ¦   ¦       puskill-killblade-ddr4-16gb-2400mhz-desktop-psk-d4d17m2400b-16g-4.webp
 ¦   ¦   ¦       puskill-killblade-ddr4-16gb-2400mhz-desktop-psk-d4d17m2400b-16g-5.webp
 ¦   ¦   ¦       puskill-killblade-ddr4-16gb-2400mhz-desktop-psk-d4d17m2400b-16g-6.webp
-¦   ¦   ¦       puskill-killblade-ddr4-16gb-72400mhz-desktop-psk-d4d17m2400b-16g-01.webp
-¦   ¦   ¦       puskill-killblade-ddr4-16gb-72400mhz-desktop-psk-d4d17m2400b-16g-02.webp
-¦   ¦   ¦       puskill-killblade-ddr4-16gb-72400mhz-desktop-psk-d4d17m2400b-16g-03.webp
-¦   ¦   ¦       puskill-killblade-ddr4-16gb-72400mhz-desktop-psk-d4d17m2400b-16g-04.webp
-¦   ¦   ¦       puskill-killblade-ddr4-16gb-72400mhz-desktop-psk-d4d17m2400b-16g-05.webp
-¦   ¦   ¦       puskill-killblade-ddr4-16gb-72400mhz-desktop-psk-d4d17m2400b-16g-06.webp
 ¦   ¦   ¦       
 ¦   ¦   +---psk-d4d17m2400bl-16g
 ¦   ¦   ¦       puskill-killblade-ddr4-16gb-72400mhz-desktop-psk-d4d17m2400bl-16g-01.webp
@@ -952,17 +788,10 @@ C:.
 ¦   ¦   ¦       puskill-killblade-ddr4-16gb-92666mhz-desktop-psk-d4d19m2666bl-16g-06.webp
 ¦   ¦   ¦       
 ¦   ¦   +---psk-d4d19m2666bl-4g
-¦   ¦   ¦       puskill-killblade-ddr4-4gb-2666mhz-laptop-psk-d4d19m2666bl-4g-1.webp
 ¦   ¦   ¦       puskill-killblade-ddr4-4gb-2666mhz-laptop-psk-d4d19m2666bl-4g-2.webp
 ¦   ¦   ¦       puskill-killblade-ddr4-4gb-2666mhz-laptop-psk-d4d19m2666bl-4g-3.webp
 ¦   ¦   ¦       puskill-killblade-ddr4-4gb-2666mhz-laptop-psk-d4d19m2666bl-4g-4.webp
 ¦   ¦   ¦       puskill-killblade-ddr4-4gb-2666mhz-laptop-psk-d4d19m2666bl-4g-5.webp
-¦   ¦   ¦       puskill-killblade-ddr4-4gb-92666mhz-desktop-psk-d4d19m2666bl-4g-01.webp
-¦   ¦   ¦       puskill-killblade-ddr4-4gb-92666mhz-desktop-psk-d4d19m2666bl-4g-02.webp
-¦   ¦   ¦       puskill-killblade-ddr4-4gb-92666mhz-desktop-psk-d4d19m2666bl-4g-03.webp
-¦   ¦   ¦       puskill-killblade-ddr4-4gb-92666mhz-desktop-psk-d4d19m2666bl-4g-04.webp
-¦   ¦   ¦       puskill-killblade-ddr4-4gb-92666mhz-desktop-psk-d4d19m2666bl-4g-05.webp
-¦   ¦   ¦       puskill-killblade-ddr4-4gb-92666mhz-desktop-psk-d4d19m2666bl-4g-06.webp
 ¦   ¦   ¦       
 ¦   ¦   +---psk-d4d19m2666bl-8g
 ¦   ¦   ¦       puskill-killblade-ddr4-8gb-92666mhz-desktop-psk-d4d19m2666bl-8g-01.webp
@@ -1005,7 +834,6 @@ C:.
 ¦   ¦   ¦       puskill-killblade-ddr4-32gb-23200mhz-desktop-psk-d4d22m3200bl-32g-06.webp
 ¦   ¦   ¦       
 ¦   ¦   +---psk-d4d22m3200bl-8g
-¦   ¦   ¦       puskill-killblade-ddr4-8gb-23200mhz-desktop-psk-d4d22m3200bl-8g-01.webp
 ¦   ¦   ¦       puskill-killblade-ddr4-8gb-23200mhz-desktop-psk-d4d22m3200bl-8g-02.webp
 ¦   ¦   ¦       puskill-killblade-ddr4-8gb-23200mhz-desktop-psk-d4d22m3200bl-8g-03.webp
 ¦   ¦   ¦       puskill-killblade-ddr4-8gb-23200mhz-desktop-psk-d4d22m3200bl-8g-04.webp
@@ -1019,15 +847,8 @@ C:.
 ¦   ¦   ¦       puskill-killblade-ddr4-8gb-2400mhz-desktop-psk-d4s17m2400b-8g-4.webp
 ¦   ¦   ¦       puskill-killblade-ddr4-8gb-2400mhz-desktop-psk-d4s17m2400b-8g-5.webp
 ¦   ¦   ¦       puskill-killblade-ddr4-8gb-2400mhz-desktop-psk-d4s17m2400b-8g-6.webp
-¦   ¦   ¦       puskill-killblade-ddr4-8gb-72400mhz-laptop-psk-d4s17m2400b-8g-01.webp
-¦   ¦   ¦       puskill-killblade-ddr4-8gb-72400mhz-laptop-psk-d4s17m2400b-8g-02.webp
-¦   ¦   ¦       puskill-killblade-ddr4-8gb-72400mhz-laptop-psk-d4s17m2400b-8g-03.webp
-¦   ¦   ¦       puskill-killblade-ddr4-8gb-72400mhz-laptop-psk-d4s17m2400b-8g-04.webp
-¦   ¦   ¦       puskill-killblade-ddr4-8gb-72400mhz-laptop-psk-d4s17m2400b-8g-05.webp
-¦   ¦   ¦       puskill-killblade-ddr4-8gb-72400mhz-laptop-psk-d4s17m2400b-8g-06.webp
 ¦   ¦   ¦       
 ¦   ¦   +---psk-d4s19m2666b-4g
-¦   ¦   ¦       puskill-killblade-ddr4-4gb-92666mhz-laptop-psk-d4s19m2666b-4g-01.webp
 ¦   ¦   ¦       puskill-killblade-ddr4-4gb-92666mhz-laptop-psk-d4s19m2666b-4g-02.webp
 ¦   ¦   ¦       puskill-killblade-ddr4-4gb-92666mhz-laptop-psk-d4s19m2666b-4g-03.webp
 ¦   ¦   ¦       puskill-killblade-ddr4-4gb-92666mhz-laptop-psk-d4s19m2666b-4g-04.webp
@@ -1041,20 +862,8 @@ C:.
 ¦   ¦   ¦       puskill-killblade-ddr4-8gb-2666mhz-desktop-psk-d4s19m2666b-8g-4.webp
 ¦   ¦   ¦       puskill-killblade-ddr4-8gb-2666mhz-desktop-psk-d4s19m2666b-8g-5.webp
 ¦   ¦   ¦       puskill-killblade-ddr4-8gb-2666mhz-desktop-psk-d4s19m2666b-8g-6.webp
-¦   ¦   ¦       puskill-killblade-ddr4-8gb-92666mhz-laptop-psk-d4s19m2666b-8g-01.webp
-¦   ¦   ¦       puskill-killblade-ddr4-8gb-92666mhz-laptop-psk-d4s19m2666b-8g-02.webp
-¦   ¦   ¦       puskill-killblade-ddr4-8gb-92666mhz-laptop-psk-d4s19m2666b-8g-03.webp
-¦   ¦   ¦       puskill-killblade-ddr4-8gb-92666mhz-laptop-psk-d4s19m2666b-8g-04.webp
-¦   ¦   ¦       puskill-killblade-ddr4-8gb-92666mhz-laptop-psk-d4s19m2666b-8g-05.webp
-¦   ¦   ¦       puskill-killblade-ddr4-8gb-92666mhz-laptop-psk-d4s19m2666b-8g-06.webp
 ¦   ¦   ¦       
 ¦   ¦   +---psk-d4s22m3200b-8g
-¦   ¦           puskill-killblade-ddr4-8gb-23200mhz-laptop-psk-d4s22m3200b-8g-01.webp
-¦   ¦           puskill-killblade-ddr4-8gb-23200mhz-laptop-psk-d4s22m3200b-8g-02.webp
-¦   ¦           puskill-killblade-ddr4-8gb-23200mhz-laptop-psk-d4s22m3200b-8g-03.webp
-¦   ¦           puskill-killblade-ddr4-8gb-23200mhz-laptop-psk-d4s22m3200b-8g-04.webp
-¦   ¦           puskill-killblade-ddr4-8gb-23200mhz-laptop-psk-d4s22m3200b-8g-05.webp
-¦   ¦           puskill-killblade-ddr4-8gb-23200mhz-laptop-psk-d4s22m3200b-8g-06.webp
 ¦   ¦           puskill-killblade-ddr4-8gb-3200mhz-desktop-psk-d4s22m3200b-8g-1.webp
 ¦   ¦           puskill-killblade-ddr4-8gb-3200mhz-desktop-psk-d4s22m3200b-8g-2.webp
 ¦   ¦           puskill-killblade-ddr4-8gb-3200mhz-desktop-psk-d4s22m3200b-8g-3.webp
@@ -1063,9 +872,6 @@ C:.
 ¦   ¦           puskill-killblade-ddr4-8gb-3200mhz-desktop-psk-d4s22m3200b-8g-6.webp
 ¦   ¦           
 ¦   +---ddr5
-¦       +---psk-d564dm4800b-16g
-¦       ¦       Captura de tela 2026-06-14 193225.png
-¦       ¦       
 ¦       +---psk-d5d40m4800b-32g
 ¦       ¦       puskill-fuse-ddr5-32gb-04800mhz-desktop-psk-d5d40m4800b-32g-01.webp
 ¦       ¦       puskill-fuse-ddr5-32gb-04800mhz-desktop-psk-d5d40m4800b-32g-02.webp
@@ -1075,7 +881,6 @@ C:.
 ¦       ¦       puskill-fuse-ddr5-32gb-04800mhz-desktop-psk-d5d40m4800b-32g-06.webp
 ¦       ¦       
 ¦       +---psk-d5d40m4800bl-16g
-¦       ¦       Captura de tela 2026-06-14 194412.png
 ¦       ¦       puskill-fuse-ddr5-16gb-04800mhz-desktop-psk-d5d40m4800bl-16g-01.webp
 ¦       ¦       puskill-fuse-ddr5-16gb-04800mhz-desktop-psk-d5d40m4800bl-16g-02.webp
 ¦       ¦       puskill-fuse-ddr5-16gb-04800mhz-desktop-psk-d5d40m4800bl-16g-03.webp
@@ -1107,12 +912,6 @@ C:.
 ¦       ¦       puskill-fuse-ddr5-32gb-65600mhz-desktop-psk-d5d46m5600b-32g-05.webp
 ¦       ¦       puskill-fuse-ddr5-32gb-65600mhz-desktop-psk-d5d46m5600b-32g-06.webp
 ¦       ¦       
-¦       +---psk-d5d46m5600bl- 32g
-¦       ¦       Captura de tela 2026-06-14 193706.png
-¦       ¦       Captura de tela 2026-06-14 193926.png
-¦       ¦       Captura de tela 2026-06-14 194111.png
-¦       ¦       Captura de tela 2026-06-14 194307.png
-¦       ¦       
 ¦       +---psk-d5d46m5600bl-16g
 ¦       ¦       puskill-fuse-ddr5-16gb-65600mhz-desktop-psk-d5d46m5600bl-16g-01.webp
 ¦       ¦       puskill-fuse-ddr5-16gb-65600mhz-desktop-psk-d5d46m5600bl-16g-02.webp
@@ -1138,12 +937,8 @@ C:.
 ¦       ¦       puskill-fuse-ddr5-8gb-65600mhz-laptop-psk-d5d46m5600bl-8g-06.webp
 ¦       ¦       
 ¦       +---psk-d5s40m4800b-16g
-¦       ¦       puskill-fuse-ddr5-16gb-04800mhz-laptop-psk-d5s40m4800b-16g-01.webp
-¦       ¦       puskill-fuse-ddr5-16gb-04800mhz-laptop-psk-d5s40m4800b-16g-02.webp
 ¦       ¦       puskill-fuse-ddr5-16gb-04800mhz-laptop-psk-d5s40m4800b-16g-03.webp
 ¦       ¦       puskill-fuse-ddr5-16gb-04800mhz-laptop-psk-d5s40m4800b-16g-04.webp
-¦       ¦       puskill-fuse-ddr5-16gb-04800mhz-laptop-psk-d5s40m4800b-16g-05.webp
-¦       ¦       puskill-fuse-ddr5-16gb-04800mhz-laptop-psk-d5s40m4800b-16g-06.webp
 ¦       ¦       
 ¦       +---psk-d5s40m4800b-8g
 ¦       ¦       puskill-fuse-ddr5-8gb-04800mhz-laptop-psk-d5s40m4800b-8g-01.webp
@@ -1152,14 +947,6 @@ C:.
 ¦       ¦       puskill-fuse-ddr5-8gb-04800mhz-laptop-psk-d5s40m4800b-8g-04.webp
 ¦       ¦       puskill-fuse-ddr5-8gb-04800mhz-laptop-psk-d5s40m4800b-8g-05.webp
 ¦       ¦       puskill-fuse-ddr5-8gb-04800mhz-laptop-psk-d5s40m4800b-8g-06.webp
-¦       ¦       
-¦       +---psk-d5s46m5600b-16g
-¦       ¦       puskill-fuse-ddr5-16gb-65600mhz-laptop-psk-d5s46m5600b-16g-01.webp
-¦       ¦       puskill-fuse-ddr5-16gb-65600mhz-laptop-psk-d5s46m5600b-16g-02.webp
-¦       ¦       puskill-fuse-ddr5-16gb-65600mhz-laptop-psk-d5s46m5600b-16g-03.webp
-¦       ¦       puskill-fuse-ddr5-16gb-65600mhz-laptop-psk-d5s46m5600b-16g-04.webp
-¦       ¦       puskill-fuse-ddr5-16gb-65600mhz-laptop-psk-d5s46m5600b-16g-05.webp
-¦       ¦       puskill-fuse-ddr5-16gb-65600mhz-laptop-psk-d5s46m5600b-16g-06.webp
 ¦       ¦       
 ¦       +---psk-d5s46m5600b-8g
 ¦               puskill-fuse-ddr5-8gb-65600mhz-laptop-psk-d5s46m5600b-8g-01.webp
